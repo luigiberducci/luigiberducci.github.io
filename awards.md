@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Honors & Awards
+title: Awards & Honors
 subtitle:
 ---
 
@@ -10,4 +10,4 @@ Ph.D. university assistant position at Vienna University of Technology, Oct 2020
 
 GARR Scholarship (19,000€) for the project *"ML4NP: A machine learning approach for Neutrino Physics"*, Feb-Sep 2020.
 
-M.Sc. Degree, Sapienza University of Rome, 2020.
+M.Sc. Degree with honors, Sapienza University of Rome, 2020.
