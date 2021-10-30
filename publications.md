@@ -8,11 +8,11 @@ subtitle: Papers, preprints, reports of my research activity
 # Preprints
 
 **From STL Rulebooks to Rewards**
-*Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković*
+*Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
 Preprint, 2021. [link](https://arxiv.org/abs/2110.02792)
 
 **Model-based versus Model-free Deep Reinforcement Learning for Autonomous Racing Cars**
-*Axel Brunnbauer, Luigi Berducci, Andreas Brandstätter, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu*
+*Axel Brunnbauer, Luigi Berducci, Andreas Brandstätter, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu.*
 Preprint, 2021. [link](https://arxiv.org/abs/2103.04909)
 
 # Theses
