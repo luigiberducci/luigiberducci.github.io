@@ -61,7 +61,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-3497-6007
-  google-scholar: https://scholar.google.it/citations?user=QP9NK-8AAAAJ
+  google-scholar: citations?user=QP9NK-8AAAAJ
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
