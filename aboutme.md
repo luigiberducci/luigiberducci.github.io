@@ -4,13 +4,32 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a PhD student at Vienna University of Technology,
+working in the Cyber-Physical System Group under the supervision of Prof. Radu Grosu.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My research consists of investigation of learning approaches able to
+cope with safety-critical environments, under strict operational constraints.
 
-What else do you need?
+The target of my work is the enforcement of formal requirements on the behavior
+emergent by automated learning approaches, specifically reinforcement learning.
 
-### My story
+The application area is autonomous driving and, more in general, robotic systems.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My main interests:
+- Safe and robust learning in real-world systems
+- Assessment and validation of autonomous controllers
+- Reinforcement Learning in Autonomous Driving applications
+
+### Short Bio
+Luigi Berducci received his M.Sc. degree with honors in Computer Science
+at Sapienza University of Rome, Italy (May 2020).
+His M.Sc. dissertation on Testing of Autonomous Systems through RL
+was co-advised by Prof. Enrico Tronci (Sapienza) and Prof. Radu Grosu (TU Wien).
+
+His research focus on the development of safe learning algorithms able to
+operate under constraints in robotics applications.
+
+Luigi won a GARR Scholarship in 2020 for the project ML4NP, where he investigated
+with collegues from INFN Roma3 in the adoption of machine learning techniques
+for background-noise suppression in the neutrino-physics experiment LEGEND200.
+He received his B.Sc. degree with honors at Sapienza University of Rome in 2017.
