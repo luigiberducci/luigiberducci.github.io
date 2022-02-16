@@ -4,6 +4,10 @@ title: Publications
 subtitle: Papers, preprints, reports of my research activity
 ---
 # Papers
+**Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing**
+*Axel Brunnbauer\*, Luigi Berducci\*, Andreas Brandstätter\*, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu.*
+IEEE International Conference on Robotics and Automation (ICRA), 2022. 
+[link](https://arxiv.org/abs/2103.04909)
 
 # Preprints
 
