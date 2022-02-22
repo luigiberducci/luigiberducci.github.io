@@ -20,6 +20,9 @@ My main interests:
 - Assessment and validation of autonomous controllers
 - Reinforcement Learning in Autonomous Driving applications
 
+**Short CV**: [link to pdf](_data/resources/BerducciLuigi_ResumeEng_Feb2022.pdf)
+
+
 ### Short Bio
 Luigi Berducci received his M.Sc. degree with honors in Computer Science
 at Sapienza University of Rome, Italy (May 2020).
