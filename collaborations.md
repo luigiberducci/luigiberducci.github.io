@@ -21,13 +21,13 @@ Topics: Model-based Deep Reinforcement Learning for Autonomous Driving, F1Tenth 
 **Axel Brunnbauer** - Ph.D. Student, Computer Science, CPS Group, TU Wien (10/2020 - Present)
 Topics: Deep Reinforcement Learning for Autonomous Driving
 
-**Dennis Erdogan** - Ph.D. Student, Mechatronics Engineering, TU Wien (06/2021 - Present)
+**Dennis Erdogan** - Ph.D. Student, Mechatronics Engineering, TU Wien (06/2021 - Present). [Personal Website.](https://www.dennis-erdogan.at)
 Topics: F1Tenth Autonomous Racing 
 
-**Ramin Hasani** - Post-Doc, Computer Science, CSAIL, MIT (10/2020 - 04/2021)
+**Ramin Hasani** - Post-Doc, Computer Science, CSAIL, MIT (10/2020 - 04/2021) [Personal Website.](http://www.raminhasani.com/)
 Topics: Model-based Deep Reinforcement Learning for Autonomous Driving
 
-**Mathias Lechner** - Ph.D. Student, Computer Science, IST Austria (10/2020 - 04/2021)
+**Mathias Lechner** - Ph.D. Student, Computer Science, IST Austria (10/2020 - 04/2021) [Personal Website.](https://mlech26l.github.io/pages/about/)
 Topics: Model-based Deep Reinforcement Learning for Autonomous Driving
 
 
