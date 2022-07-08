@@ -36,7 +36,7 @@ Topics: Model-based Deep Reinforcement Learning for Autonomous Driving
 **Moritz Christamentl** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
 Topics: F1Tenth Autonomous Racing 
 
-**Fabian Kresse** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
+**Fabian Kresse** - M.Sc. in Computer Science, TU Wien (06/2021 - 10/2021)
 Topics: F1Tenth Autonomous Racing
 
 **Felix Resch** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
