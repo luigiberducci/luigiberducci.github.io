@@ -18,6 +18,10 @@ in our university facilities (e.g., Treitlstrasse).
 
 **Want to know more?** Visit the repository on [github](https://github.com/axelbr/racecar_gym)!
 
+Tutorials:
+
+- [How to import custom map in `racecar_gym`](tutorials/racecar_custom_map/racecar_gym_import_custom_map.md)
+
 ![racecar_gym](assets/img/racecar_single.gif)
 
 
