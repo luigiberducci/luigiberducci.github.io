@@ -4,6 +4,12 @@ title: Publications
 subtitle: Papers, preprints, reports of my research activity
 ---
 # Papers
+
+**Safe Policy Improvement in Constrained Markov Decision Processes**
+*Luigi Berducci, Radu Grosu.*
+International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), 2022. 
+
+
 **Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing**
 *Axel Brunnbauer\*, Luigi Berducci\*, Andreas Brandstätter\*, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu.*
 IEEE International Conference on Robotics and Automation (ICRA), 2022. 
@@ -11,7 +17,7 @@ IEEE International Conference on Robotics and Automation (ICRA), 2022.
 
 # Preprints
 
-**From STL Rulebooks to Rewards**
+**Hierarchical Potential-based Reward Shaping from Task Specifications**
 *Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
 Preprint, 2021. [link](https://arxiv.org/abs/2110.02792)
 

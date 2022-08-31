@@ -4,6 +4,10 @@ title: News
 subtitle:
 ---
 
+
+**[Paper Accepted][Aug 2022]** The paper *"Safe Policy Improvement in Constrained Markov Decision Processes"* 
+has been accepted to **ISoLA 2022**!
+
 **[Paper Accepted][Jan 2022]** The paper *"Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing"* has been accepted to **ICRA 2022**!
 [Paper](https://arxiv.org/abs/2103.04909)
 
