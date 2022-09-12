@@ -10,10 +10,16 @@ at the Forschungsfest (Science Festival) in Vienna.
 **[Paper Accepted][Aug 2022]** The paper *"Safe Policy Improvement in Constrained Markov Decision Processes"* 
 has been accepted to **ISoLA 2022**!
 
+**[Seminar][Jun 2022]** I presented the work on safe policy improvement from formal requirements for RL.
+
+**[F1/10th Grand Prix at ICRA][May 2022]** Our team *"Scuderia Segfault"* placed 3rd at the 10th 
+F1TENTH Autonomous Grand Prix at ICRA2022!
+[Video](https://youtu.be/gk_lNKmZX4I) & [News](/_posts/2022-05-27-F110_ICRA_AGP.md)
+
 **[Paper Accepted][Jan 2022]** The paper *"Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing"* has been accepted to **ICRA 2022**!
 [Paper](https://arxiv.org/abs/2103.04909)
 
-**[DCRES Seminar][Nov 2021]** I presented the work on automatic reward shaping from multiple formal requirements for RL control tasks.
+**[Seminar][Nov 2021]** I presented the work on automatic reward shaping from multiple formal requirements for RL control tasks.
 [Preprint](https://arxiv.org/abs/2110.02792)
 
 **[F1/10th Grand Prix at IROS][Oct 2021]** Our team *"Scuderia Segfault"* won the 9th F1TENTH Autonomous Grand Prix at IROS2021!
