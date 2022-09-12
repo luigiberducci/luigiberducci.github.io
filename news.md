@@ -4,6 +4,8 @@ title: News
 subtitle:
 ---
 
+**[Science Booth][Sep 2022]** Our most-recent research activity on autonomous driving has been presented 
+at the Forschungsfest (Science Festival) in Vienna.
 
 **[Paper Accepted][Aug 2022]** The paper *"Safe Policy Improvement in Constrained Markov Decision Processes"* 
 has been accepted to **ISoLA 2022**!
