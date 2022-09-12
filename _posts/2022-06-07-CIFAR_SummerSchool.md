@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accepted at CIFAR DLRL Summer School
+title: Participating at the CIFAR DLRL Summer School
 subtitle: This year I have the great chance to participate at the CIFAR DLRL Summer School
 thumbnail-img: /assets/img/cifar-dlrl-horizontal.png
 share-img: /assets/img/cifar-dlrl-horizontal.png
