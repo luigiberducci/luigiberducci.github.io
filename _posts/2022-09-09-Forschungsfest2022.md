@@ -29,4 +29,4 @@ The team members:
 In the following, a short demo of our stand showing two cars,
 one autonomously driving and one controlled by Dennis:
 
-![](../assets/videos/forschungsfest_demo.gif)
+![demo](../assets/videos/forschungsfest_demo.gif)
