@@ -10,7 +10,7 @@ tags: [autonomous-driving, science, f1tenth, research]
 
 I am very happy to announce that our research group 
 was selected to present our most recent scientific work 
-on autonomous driving at Forschungsfest [1], [2].
+on autonomous driving at Forschungsfest.
 
 Big thanks to our Autonomous Racing Team "Scuderia Segfault" 
 for representing our research group.
