@@ -8,7 +8,7 @@ subtitle: Papers, preprints, reports of my research activity
 **Safe Policy Improvement in Constrained Markov Decision Processes**
 *Luigi Berducci, Radu Grosu.*
 International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), 2022. 
-
+[link](https://arxiv.org/abs/2210.11259)
 
 **Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing**
 *Axel Brunnbauer\*, Luigi Berducci\*, Andreas Brandstätter\*, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu.*
