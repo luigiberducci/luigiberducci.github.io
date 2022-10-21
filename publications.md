@@ -26,7 +26,8 @@ Preprint, 2021.
 
 **Model-based versus Model-free Deep Reinforcement Learning for Autonomous Racing Cars**
 *Axel Brunnbauer, Luigi Berducci, Andreas Brandstätter, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu.*
-Preprint, 2021. [Link.](https://arxiv.org/abs/2103.04909)
+Preprint, 2021. 
+[Link.](https://arxiv.org/abs/2103.04909)
 
 
 # Theses
