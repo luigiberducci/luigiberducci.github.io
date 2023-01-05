@@ -24,7 +24,7 @@ Topics: Reinforcement Learning, Autonomous Driving, Formal Methods
 **Andreas Brandstätter** - Ph.D. Student, Computer Science, CPS Group, TU Wien (10/2020 - Present)
 Topics: Model-based Deep Reinforcement Learning for Autonomous Driving, F1Tenth Autonomous Racing
 
-**Axel Brunnbauer** - Ph.D. Student, Computer Science, CPS Group, TU Wien (10/2020 - Present)
+**Axel Brunnbauer** - Ph.D. Student, Computer Science, CPS Group, TU Wien (10/2020 - Present) [Personal Website.](https://axelbr.github.io/)
 Topics: Deep Reinforcement Learning for Autonomous Driving
 
 **Dennis Erdogan** - Ph.D. Student, Mechatronics Engineering, TU Wien (06/2021 - 12/2022). [Personal Website.](https://www.dennis-erdogan.at)
