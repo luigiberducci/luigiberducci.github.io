@@ -4,6 +4,9 @@ title: News
 subtitle:
 ---
 
+**[Grant][Dec 2022]** I have been nominated for the Marshall Plan Scholarship (EUR 6500) to support my 
+research exchange in the US.
+
 **[Science Booth][Sep 2022]** Our most-recent research activity on autonomous driving has been presented 
 at the Forschungsfest (Science Festival) in Vienna.
 
