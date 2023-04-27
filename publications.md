@@ -21,6 +21,7 @@ IEEE International Conference on Robotics and Automation (ICRA), 2022.
 **Hierarchical Potential-based Reward Shaping from Task Specifications**
 *Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
 Preprint, 2021. 
+[Website.](https://sites.google.com/view/hprewardshaping/)
 [Link.](https://arxiv.org/abs/2110.02792)
 [Video.](https://www.youtube.com/watch?v=FbDVjWtRwrE)
 
