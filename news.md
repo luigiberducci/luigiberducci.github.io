@@ -4,8 +4,15 @@ title: News
 subtitle:
 ---
 
+**[Paper Accepted][May 2023]** The paper *"Enhancing Robot Learning through Learned Human-Attention Feature Maps"* 
+has been accepted at **ICRA 2023**'s workshop on 
+Effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots)!
+
+**[Research Exchange][Feb 2023]** I am starting a research exchange at the xLab
+of the University of Pennsylvania, Philadelphia, USA.
+
 **[Grant][Dec 2022]** I have been nominated for the Marshall Plan Scholarship (EUR 6500) to support my 
-research exchange in the US.
+research on safe learning for intelligent autonomous driving systems.
 
 **[Science Booth][Sep 2022]** Our most-recent research activity on autonomous driving has been presented 
 at the Forschungsfest (Science Festival) in Vienna.
