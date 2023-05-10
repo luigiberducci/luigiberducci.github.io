@@ -39,23 +39,23 @@ Topics: Model-based Deep Reinforcement Learning for Autonomous Driving
 
 # M.Sc. and B.Sc. Students I work/ed with:
 
-**Moritz Christamentl** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
-Topics: F1Tenth Autonomous Racing 
-
-**Fabian Kresse** - M.Sc. in Computer Science, TU Wien (06/2021 - 10/2021)
-Topics: F1Tenth Autonomous Racing
+**Fabian Kresse** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
+Topics: F1Tenth Autonomous Racing, Safe Reinforcement Learning
 
 **Felix Resch** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
-Topics: F1Tenth Autonomous Racing
+Topics: F1Tenth Autonomous Racing, Reinforcement Learning, Human-attention model
 
 **Daniel Scheuchenstuhl** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
-Topics: F1Tenth Autonomous Racing, Object Detection
+Topics: F1Tenth Autonomous Racing, Object Detection, Human-attention model
 
 **Stefan Ulmer** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
-Topics: F1Tenth Autonomous Racing, Imitation Learning
+Topics: F1Tenth Autonomous Racing, Imitation Learning, Human-attention model
+
+**Moritz Christamentl** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
+Topics: F1Tenth Autonomous Racing
 
 ### Do you want to get in touch with me? 
-I am always open to scientific discussion :-)
+I am always open to scientific discussion :-) Let's have a coffee together!
 
 Feel free to add my on socials or send me an email at [myname.mysurname\[at\]tuwien.ac.at]()! 
 
