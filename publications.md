@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: Papers, preprints, reports of my research activity
 ---
-# Papers
+# Conference Papers
 
 **Safe Policy Improvement in Constrained Markov Decision Processes**
 *Luigi Berducci, Radu Grosu.*
@@ -15,6 +15,12 @@ International Symposium On Leveraging Applications of Formal Methods, Verificati
 IEEE International Conference on Robotics and Automation (ICRA), 2022. 
 [Link.](https://arxiv.org/abs/2103.04909) 
 [Video.](https://www.youtube.com/watch?v=IlN3vJxC30w)
+
+# Workshop Papers
+**Enhancing Robot Learning through Learned Human-Attention Feature Maps**
+*Daniel Scheuchenstuhl\*, Stefan Ulmer\*, Felix Resch\*, Luigi Berducci, Radu Grosu.*
+IEEE International Conference on Robotics and Automation (ICRA), 2023, 
+Workshop on effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots).
 
 # Preprints
 
