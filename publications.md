@@ -3,7 +3,13 @@ layout: page
 title: Publications
 subtitle: Papers, preprints, reports of my research activity
 ---
-# Conference Papers
+# Papers
+
+**Enhancing Robot Learning through Learned Human-Attention Feature Maps**
+*Daniel Scheuchenstuhl\*, Stefan Ulmer\*, Felix Resch\*, Luigi Berducci, Radu Grosu.*
+IEEE International Conference on Robotics and Automation (ICRA), 2023, 
+Workshop on effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots).
+[Link.](https://drive.google.com/file/d/1vSq1PLrVwEk-1Cpfr3J6dy2G1mv9B8df)
 
 **Safe Policy Improvement in Constrained Markov Decision Processes**
 *Luigi Berducci, Radu Grosu.*
@@ -16,11 +22,6 @@ IEEE International Conference on Robotics and Automation (ICRA), 2022.
 [Link.](https://arxiv.org/abs/2103.04909) 
 [Video.](https://www.youtube.com/watch?v=IlN3vJxC30w)
 
-# Workshop Papers
-**Enhancing Robot Learning through Learned Human-Attention Feature Maps**
-*Daniel Scheuchenstuhl\*, Stefan Ulmer\*, Felix Resch\*, Luigi Berducci, Radu Grosu.*
-IEEE International Conference on Robotics and Automation (ICRA), 2023, 
-Workshop on effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots).
 
 # Preprints
 
