@@ -4,7 +4,7 @@ title: Tools
 subtitle:
 ---
 
-## auto-shaping
+## auto-shaping (coming soon)
 I am developing and maintaining [`auto-shaping`](https://github.com/luigiberducci/auto-shaping)
 with the aim to facilitate research on **logic-based reward shaping** for Reinforcement Learning.
 
