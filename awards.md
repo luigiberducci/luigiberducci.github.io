@@ -4,6 +4,8 @@ title: Awards & Honors
 subtitle:
 ---
 
+2nd Place Team "Scuderia Segfault" of the 11th F1TENTH Autonomous Grand Prix at ICRA2023, May 2023.
+
 Marshall Plan Scholarship (EUR 6 500) for the research exchange at UPenn, Feb-May 2023. 
 
 Nominated among the best under-30 of TU Wien, list ["TUW Under 30"](https://tuw.media/under-30.html), July 2022. 
