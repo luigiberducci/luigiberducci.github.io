@@ -4,6 +4,8 @@ title: Awards & Honors
 subtitle:
 ---
 
+<!-- https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia -->
+
 :trophy: 2nd Place Team "Scuderia Segfault" of the 11th F1TENTH Autonomous Grand Prix at ICRA2023, May 2023.
 
 :rocket: Marshall Plan Scholarship (EUR 6 500) for the research exchange at UPenn, Feb-May 2023. 
