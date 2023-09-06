@@ -6,21 +6,24 @@ subtitle:
 
 ## auto-shaping (coming soon)
 I am developing and maintaining [`auto-shaping`](https://github.com/luigiberducci/auto-shaping)
-with the aim to facilitate research on **logic-based reward shaping** for Reinforcement Learning.
+to facilitate research on **logic-based reward shaping** for Reinforcement Learning.
+
+![autoshaping](assets/img/auto-shaping-logo.svg)
 
 This library is compatible with the **gymnasium** API, 
 it wraps the environment with the desired reward shaping method while maintaining compatibility 
 with stable RL libraries (e.g., `stable-baselines3`, `omnisafe`).
 
-`auto-shaping` currently implements several **automatic reward** shaping methods, including TLTL, BHNR, HPRS,
+[`auto-shaping`](https://github.com/luigiberducci/auto-shaping) 
+currently implements several **automatic reward** shaping methods, including TLTL, BHNR, HPRS,
 and provides **requirement specifications** for several control environments.
 
 **[Want to know more?](https://github.com/luigiberducci/auto-shaping)**
 
-![autoshaping](assets/img/auto-shaping-logo.svg)
-
 ## racecar-gym
 I have been developing and maintaining [`racecar_gym`](https://github.com/axelbr/racecar_gym) with Axel Brunnbauer. 
+
+![racecar_gym](assets/img/racecar_single.gif)
 
 This environment uses the Bullet physics engine and 
 aims to facilitate experiments of **Reinforcement Learning** 
@@ -33,6 +36,6 @@ in our university facilities (e.g., Treitlstrasse).
 
 **[Want to know more?](https://github.com/axelbr/racecar_gym)**
 
-![racecar_gym](assets/img/racecar_single.gif)
+
 
 
