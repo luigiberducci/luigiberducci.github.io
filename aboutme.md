@@ -20,7 +20,7 @@ My main interests:
 - Assessment and validation of autonomous controllers
 - Reinforcement Learning in Autonomous Driving applications
 
-**Short CV: [Download!](assets/resources/BerducciLuigi_ResumeEng_Sep2023.pdf)**
+**Short CV: [Download!](assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf)**
 
 
 ### Short Bio
