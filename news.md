@@ -4,6 +4,14 @@ title: News
 subtitle:
 ---
 
+**[The Agency Foundations Challenge][Oct 2023]** 
+Luigi Berducci and Harry Powell won the 1st prize (EUR 1250) at the online hackaton 
+for the track on Agency-Preserving Reinforcement Learning!
+Their winning project, 
+*"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"*,
+was conceived and developed in two weeks.
+[Report](https://alignmentjam.com/project/preserving-agency-in-reinforcement-learning-under-unknown-evolving-and-under-represented-intentions)
+
 **[Paper Accepted][May 2023]** The paper *"Enhancing Robot Learning through Learned Human-Attention Feature Maps"* 
 has been accepted at **ICRA 2023**'s workshop on 
 Effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots)!
