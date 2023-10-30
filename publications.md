@@ -5,6 +5,12 @@ subtitle: Papers, preprints, reports of my research activity
 ---
 # Papers
 
+**Learning Adaptive Safety for Multi-Agent Systems**
+*Luigi Berducci, Shuo Yang, Rahul Mangharam, Radu Grosu.*
+**Under Review**. 
+[:page_facing_up:](https://arxiv.org/abs/2309.10657) 
+[:movie_camera:](https://youtu.be/NDOsWzt1xWo?si=C5kRe47P6TYrKI4J)
+
 **Enhancing Robot Learning through Learned Human-Attention Feature Maps**
 *Daniel Scheuchenstuhl\*, Stefan Ulmer\*, Felix Resch\*, Luigi Berducci, Radu Grosu.*
 IEEE International Conference on Robotics and Automation (ICRA), 2023, 
@@ -24,12 +30,6 @@ IEEE International Conference on Robotics and Automation (ICRA), 2022.
 
 
 # Preprints
-
-**Learning Adaptive Safety for Multi-Agent Systems**
-*Luigi Berducci, Shuo Yang, Rahul Mangharam, Radu Grosu.*
-Under Review. 
-[:page_facing_up:](https://arxiv.org/abs/2309.10657) 
-[:movie_camera:](https://youtu.be/NDOsWzt1xWo?si=C5kRe47P6TYrKI4J)
 
 **Hierarchical Potential-based Reward Shaping from Task Specifications**
 *Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
