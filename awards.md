@@ -7,6 +7,9 @@ subtitle:
 <!-- https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia -->
 
 
+- :trophy: **1st Place L.Berducci & H.Powell (USD 1,250)**
+  - [Agency-Preserving RL Track, AI Agency Challenge](https://alignmentjam.com/jam/agency), Sep 2023.
+
 - :trophy: **2nd Place Team "Scuderia Segfault"**
   - [11th F1TENTH Autonomous Grand Prix at ICRA2023](https://informatics.tuwien.ac.at/news/2442), May 2023.
 

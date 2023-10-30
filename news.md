@@ -12,6 +12,10 @@ Their winning project,
 was conceived and developed in two weeks.
 [Report](https://alignmentjam.com/project/preserving-agency-in-reinforcement-learning-under-unknown-evolving-and-under-represented-intentions)
 
+**[Research & Networking][Sep 2023]** 
+I had the pleasure to participate at the first [High-Performance Trip](https://www.marshallplan.at/2023/495-first-two-day-high-performance-trip)
+ organized by the Marshall Plan Foundation.
+
 **[Paper Accepted][May 2023]** The paper *"Enhancing Robot Learning through Learned Human-Attention Feature Maps"* 
 has been accepted at **ICRA 2023**'s workshop on 
 Effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots)!
