@@ -4,13 +4,23 @@ title: News
 subtitle:
 ---
 
+**[Seminar][Nov 2023]** 
+I presented the work on adaptive safety for multi-agent systems at the
+DCRES seminar series of TU Wien.
+
 **[The Agency Foundations Challenge][Oct 2023]** 
-Luigi Berducci and Harry Powell won the 1st prize (EUR 1250) at the online hackaton 
-for the track on Agency-Preserving Reinforcement Learning!
-Their winning project, 
+Luigi Berducci and Harry Powell won the 1st prize (EUR 1250) at the hackaton 
+for Agency-Preserving Reinforcement Learning!
+The winning project, 
 *"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"*,
 was conceived and developed in two weeks.
 [Report](https://alignmentjam.com/project/preserving-agency-in-reinforcement-learning-under-unknown-evolving-and-under-represented-intentions)
+
+**[Preprint][Sep 2023]** 
+The preprint of 
+*"Learning Adaptive Safety for Multi-Agent Systems"*
+is out.
+[Preprint](https://arxiv.org/abs/2309.10657)
 
 **[Research & Networking][Sep 2023]** 
 I had the pleasure to participate at the first [High-Performance Trip](https://www.marshallplan.at/2023/495-first-two-day-high-performance-trip)
