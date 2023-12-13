@@ -4,24 +4,6 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I am a PhD student at Vienna University of Technology,
-working in the Cyber-Physical System Group under the supervision of Prof. Radu Grosu.
-
-My research consists of investigation of learning approaches able to
-cope with safety-critical environments, under strict operational constraints.
-
-The target of my work is the enforcement of formal requirements on the behavior
-emergent by automated learning approaches, specifically reinforcement learning.
-
-The application area is autonomous driving and, more in general, robotic systems.
-
-My main interests:
-- Safe and robust learning in real-world systems
-- Assessment and validation of autonomous controllers
-- Reinforcement Learning in Autonomous Driving applications
-
-**Short CV: [Download!](assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf)**
-
 ### Short Bio
 Luigi Berducci received his M.Sc. degree with honors in Computer Science
 at Sapienza University of Rome, Italy (May 2020).
@@ -45,3 +27,10 @@ I serve/ed as reviewer for the following conferences and journals:
 - International Conference on Machine Learning (ICML)
 - IROS 2023 Workshop on Multi-agent Dynamic Games (MAD-Games)
 - Journal of Field Robotics
+
+### Resume
+<div id="pdf" style="height: 800px;"></div>
+<script src="/js/pdfobject.min.js"></script>
+<script>
+PDFObject.embed("assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf", "#pdf");
+</script>
