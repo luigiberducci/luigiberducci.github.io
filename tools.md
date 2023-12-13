@@ -6,9 +6,18 @@ subtitle:
 
 This page is still under construction.
 
+Visit [my github](https://github.com/luigiberducci) for more code.
+
 ## My Research Projects
 <details>
 <summary>Click me!</summary>
+
+| Picture                                                                                    | Project      | Description                                                                                             |
+|:-------------------------------------------------------------------------------------------|:-------------|:--------------------------------------------------------------------------------------------------------|
+| ![https://github.com/luigiberducci/auto-shaping](assets/img/auto-shaping-logo.svg =100x20) | auto-shaping | Library for automatic reward shaping from multiple formal requirements                                  |
+| ![https://github.com/axelbr/racecar_gym](assets/img/racecar_single.gif =100x20)                   | racecar-gym  | A gym environment for a miniature, F1Tenth-like racecar using the bullet physics engine with pybullet. |
+| :---                                                                                       | :---         | :---                                                                                                    |
+
 </details>
 
 ## My Reinforcement Learning Projects
@@ -30,39 +39,5 @@ This page is still under construction.
 <details>
 <summary>Click me!</summary>
 </details>
-
-## auto-shaping (coming soon)
-I am developing and maintaining [`auto-shaping`](https://github.com/luigiberducci/auto-shaping)
-to facilitate research on **logic-based reward shaping** for Reinforcement Learning.
-
-![autoshaping](assets/img/auto-shaping-logo.svg)
-
-This library is compatible with the **gymnasium** API, 
-it wraps the environment with the desired reward shaping method while maintaining compatibility 
-with stable RL libraries (e.g., `stable-baselines3`, `omnisafe`).
-
-[`auto-shaping`](https://github.com/luigiberducci/auto-shaping) 
-currently implements several **automatic reward** shaping methods, including TLTL, BHNR, HPRS,
-and provides **requirement specifications** for several control environments.
-
-**[Want to know more?](https://github.com/luigiberducci/auto-shaping)**
-
-## racecar-gym
-I have been developing and maintaining [`racecar_gym`](https://github.com/axelbr/racecar_gym) with Axel Brunnbauer. 
-
-![racecar_gym](assets/img/racecar_single.gif)
-
-This environment uses the Bullet physics engine and 
-aims to facilitate experiments of **Reinforcement Learning** 
-with miniature, [f1tenth](https://f1tenth.org/)-like **racecars**.
-
-[`racecar_gym`](https://github.com/axelbr/racecar_gym) currently implements the Gym API and the PettingZoo API, and
-supports **single-** and **multi-agent** racing scenarios with **several tracks** of increasing difficulty:
-from simple circular tracks, to scaled F1 tracks (e.g., Spielberg) and real-world tracks built 
-in our university facilities (e.g., Treitlstrasse).
-
-**[Want to know more?](https://github.com/axelbr/racecar_gym)**
-
-
 
 
