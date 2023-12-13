@@ -27,6 +27,8 @@ Visit [my github](https://github.com/luigiberducci) for more code.
       <a class="repo-description"></a>
     </center></td>
 </tr>
+</tbody>
+</table>
 
 </details>
 
