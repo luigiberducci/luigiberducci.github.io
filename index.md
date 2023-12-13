@@ -24,61 +24,110 @@ My main interests:
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <ul style="height: 300px; overflow: auto">
-- **[Seminar][Nov 2023]** 
-I presented the work on adaptive safety for multi-agent systems at the
-DCRES seminar series of TU Wien.
+    <li>
+        <b>[Seminar - Nov 2023]</b>
+        I presented the work on adaptive safety for multi-agent systems at the
+        DCRES seminar series of TU Wien.
+    </li>
 
-- **[The Agency Foundations Challenge][Oct 2023]** 
-Luigi Berducci and Harry Powell won the 1st prize (EUR 1250) at the hackaton 
-for Agency-Preserving Reinforcement Learning!
-The winning project, 
-*"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"*,
-was conceived and developed in two weeks.
-[Report](https://alignmentjam.com/project/preserving-agency-in-reinforcement-learning-under-unknown-evolving-and-under-represented-intentions)
+    <li>
+        <b>[Hackaton - Oct 2023]</b>
+        Winner team (EUR 1250) at the
+        <a href="https://alignmentjam.com/jam/agency">hackaton</a>
+        for Agency-Preserving Reinforcement Learning, with the project
+        <i>"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"</i>,
+    </li>
 
-- **[Preprint][Sep 2023]** 
-The preprint of 
-*"Learning Adaptive Safety for Multi-Agent Systems"*
-is out.
-[Preprint](https://arxiv.org/abs/2309.10657)
+    <li>
+        <b>[Preprint - Sep 2023]</b>
+        The <a href="https://arxiv.org/abs/2309.10657">paper</a>
+        <i>"Learning Adaptive Safety for Multi-Agent Systems"</i> is out.
+    </li>
 
-- **[Research & Networking][Sep 2023]** 
-I had the pleasure to participate at the first [High-Performance Trip](https://www.marshallplan.at/2023/495-first-two-day-high-performance-trip)
- organized by the Marshall Plan Foundation.
+    <li>
+        <b>[Research & Networking - Sep 2023]</b>
+        I had the pleasure to participate at the first
+        <a href="https://www.marshallplan.at/2023/495-first-two-day-high-performance-trip">High-Performance Trip</a>
+        organized by the Marshall Plan Foundation.
+    </li>
 
-- **[Paper Accepted][May 2023]** The paper *"Enhancing Robot Learning through Learned Human-Attention Feature Maps"* 
-has been accepted at **ICRA 2023**'s workshop on 
-Effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots)!
+    <li>
+        <b>[Paper Accepted - May 2023]</b>
+        The <a href="https://arxiv.org/abs/2308.15327v1">paper</a>
+        <i>"Enhancing Robot Learning through Learned Human-Attention Feature Maps"</i>
+        has been accepted at <b>ICRA 2023</b>'s workshop on
+        Effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots).
+    </li>
 
-- **[Research Exchange][Feb 2023]** I am starting a research exchange at the xLab
-of the University of Pennsylvania, Philadelphia, USA.
+    <li>
+        <b>[Research Exchange - Feb 2023]</b>
+        I am starting a research exchange at the
+        <a href="https://xlab.upenn.edu/">xLab</a>
+        of the University of Pennsylvania, Philadelphia, USA.
+    </li>
 
-- **[Grant][Dec 2022]** I have been nominated for the Marshall Plan Scholarship (EUR 6500) to support my 
-research on safe learning for intelligent autonomous driving systems.
+    <li>
+        <b>[Grant - Dec 2022]</b>
+        I have been nominated for the
+        <a href="https://www.marshallplan.at/discover/the-marshall-plan-scholarships">
+        Marshall Plan Scholarship
+        </a>
+        (EUR 6500) to support my
+        research on safe learning for intelligent autonomous driving systems.
+    </li>
 
-- **[Science Booth][Sep 2022]** Our most-recent research activity on autonomous driving has been presented 
-at the Forschungsfest (Science Festival) in Vienna.
+    <li>
+        <b>[Science Booth - Sep 2022]</b>
+        Our most-recent research activity on autonomous driving has been presented
+        at the Forschungsfest (Science Festival) in Vienna.
+    </li>
 
-- **[Paper Accepted][Aug 2022]** The paper *"Safe Policy Improvement in Constrained Markov Decision Processes"* 
-has been accepted to **ISoLA 2022**!
+    <li>
+        <b>[Paper Accepted - Aug 2022]</b>
+        The <a href="https://arxiv.org/abs/2210.11259">paper</a>
+        <i>"Safe Policy Improvement in Constrained Markov Decision Processes"</i>
+        has been accepted to <b>ISoLA 2022</b>!
+    </li>
 
-- **[Seminar][Jun 2022]** I presented the work on safe policy improvement from formal requirements for RL.
+    <li>
+        <b>[Seminar - Jun 2022]</b>
+        I presented the work on safe policy improvement from formal requirements for RL.
+    </li>
 
-- **[F1/10th Grand Prix at ICRA][May 2022]** Our team *"Scuderia Segfault"* placed 3rd at the 10th 
-F1TENTH Autonomous Grand Prix at ICRA2022!
-[Video](https://youtu.be/gk_lNKmZX4I) & [News](/_posts/2022-05-27-F110_ICRA_AGP.md)
+    <li>
+        <b>[F1/10th Grand Prix at ICRA - May 2022]</b>
+        Our team *"Scuderia Segfault"* placed 3rd at the 10th
+        F1TENTH Autonomous Grand Prix at ICRA2022!
+        <a href="https://youtu.be/gk_lNKmZX4I">Video.</a>
+    </li>
 
-- **[Paper Accepted][Jan 2022]** The paper *"Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing"* has been accepted to **ICRA 2022**!
-[Paper](https://arxiv.org/abs/2103.04909)
+    <li>
+        <b>[Paper Accepted - Jan 2022]</b>
+        The
+        <a href="https://arxiv.org/abs/2103.04909">paper</a>
+        <i>"Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing"</i>
+        has been accepted to <b>ICRA 2022</b>!
+    </li>
 
-- **[Seminar][Nov 2021]** I presented the work on automatic reward shaping from multiple formal requirements for RL control tasks.
-[Preprint](https://arxiv.org/abs/2110.02792)
+    <li>
+        <b>[Seminar - Nov 2021]</b>
+        I presented the
+        <a href="https://arxiv.org/abs/2110.02792">work</a>
+        on automatic reward shaping from multiple formal requirements for RL control tasks.
+    </li>
 
-- **[F1/10th Grand Prix at IROS][Oct 2021]** Our team *"Scuderia Segfault"* won the 9th F1TENTH Autonomous Grand Prix at IROS2021!
-[Video](https://youtu.be/oI6xHDvLzOg) & [News](/_posts/2021-10-01-F110_IROS_AGP.md)
+    <li>
+        <b>[F1/10th Grand Prix at IROS - Oct 2021]</b>
+        Our team <i>"Scuderia Segfault"</i> won the 9th F1TENTH Autonomous Grand Prix at IROS2021!
+        <a href="https://youtu.be/oI6xHDvLzOg">Video.</a>
+    </li>
 
-- **[Poster Session][Sep 2021]** I presented the project ADEX on Reinforcement Learning for autonomous-driving scenario generation
-at [AVL Research Networking Day 2021](https://www.avl.com/ja/web/guest/-/avl-research-networking-day-2021).
+    <li>
+        <b>[Poster Session - Sep 2021]</b>
+        I presented the project ADEX on Reinforcement Learning for autonomous-driving scenario generation
+        at
+        <a href="https://www.avl.com/ja/web/guest/-/avl-research-networking-day-2021">AVL Research Networking Day 2021</a>.
+    </li>
 
 </ul>
 
