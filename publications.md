@@ -52,3 +52,12 @@ M.Sc. Thesis, Sapienza University of Rome, 2020.
 **Performance Evaluation of Apache Spark with Scala, Java and Python**
 *Supervisor: Irene Finocchi.*
 B.Sc. Thesis, Sapienza University of Rome, 2017.
+
+### Academic Service
+I serve/ed as reviewer for the following conferences and journals:
+- IEEE International Conference on Robotics and Automation (ICRA)
+- International Conference on Learning Representations (ICLR)
+- Conference on Neural Information Processing Systems (NeurIPS)
+- International Conference on Machine Learning (ICML)
+- IROS 2023 Workshop on Multi-agent Dynamic Games (MAD-Games)
+- Journal of Field Robotics
