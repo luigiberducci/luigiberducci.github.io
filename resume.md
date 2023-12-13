@@ -5,7 +5,7 @@ title: Resume
 ---
 
 <object data="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf" type="application/pdf" 
-height="800px" >
+height="800px" width="800px">
     <embed src="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf">
         <p>
         This browser does not support PDFs. 
