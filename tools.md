@@ -1,8 +1,30 @@
 ---
 layout: page
-title: Tools
+title: My Projects
 subtitle:
 ---
+
+<details>
+<summary>
+My Research Projects
+</summary>
+</details>
+
+<details>
+<summary>My Reinforcement Learning Projects</summary>
+</details>
+
+<details>
+<summary>My Robotics Projects</summary>
+</details>
+
+<details>
+<summary>My Formal Methods Projects</summary>
+</details>
+
+<details>
+<summary>My Machine Learning Projects</summary>
+</details>
 
 ## auto-shaping (coming soon)
 I am developing and maintaining [`auto-shaping`](https://github.com/luigiberducci/auto-shaping)
