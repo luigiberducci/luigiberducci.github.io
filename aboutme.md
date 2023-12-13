@@ -29,8 +29,12 @@ I serve/ed as reviewer for the following conferences and journals:
 - Journal of Field Robotics
 
 ### Resume
-<div id="pdf" style="height: 800px;"></div>
-<script src="/js/pdfobject.min.js"></script>
-<script>
-PDFObject.embed("assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf", "#pdf");
-</script>
+
+<object data="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf">
+        <p>
+        This browser does not support PDFs. 
+        Please download the PDF to view it: 
+        <a href="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
