@@ -89,7 +89,20 @@ Work in progress...
 <details open>
 <summary>Expand/Collapse</summary>
 
-Work in progress...
+<table id="repo-table">
+<tbody>
+<tr>
+    <td id="video-emotion-detector"><center>
+      <a><img alt="video-emotion-detector" width="180" height="90" style="object-fit: contain;" src="../assets/img/video-emotion-detection.PNG"></a>
+      <div style="margin-top: 0.5rem"><b>video-emotion-detector</b></div>
+      <a class="repo-description">
+      Emotion detection and face recognition from videos using SVM and LBPH with sliding window. 
+      </a>
+    </center></td>
+</tr>
+</tbody>
+</table>
+
 </details>
 
 
