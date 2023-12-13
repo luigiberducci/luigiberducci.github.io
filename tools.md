@@ -9,8 +9,8 @@ This page is still under construction.
 Visit [my github](https://github.com/luigiberducci) for more code.
 
 ## My Reinforcement Learning Projects
-<details>
-<summary>Click me!</summary>
+<details open>
+<summary>Expand/Collapse</summary>
 
 <table id="repo-table">
 <tbody>
@@ -52,8 +52,8 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 </details>
 
 ## My Robotics Projects
-<details>
-<summary>Click me!</summary>
+<details open>
+<summary>Expand/Collapse</summary>
 
 <table id="repo-table">
 <tbody>
@@ -79,15 +79,15 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 </details>
 
 ## My Formal Methods Projects
-<details>
-<summary>Click me!</summary>
+<details open>
+<summary>Expand/Collapse</summary>
 
 Work in progress...
 </details>
 
 ## My Machine Learning Projects
-<details>
-<summary>Click me!</summary>
+<details open>
+<summary>Expand/Collapse</summary>
 
 Work in progress...
 </details>
