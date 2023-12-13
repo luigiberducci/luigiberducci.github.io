@@ -38,6 +38,13 @@ Visit [my github](https://github.com/luigiberducci) for more code.
       A gym environment for a miniature, F1Tenth-like racecar using the bullet physics engine with pybullet.
       </a>
     </center></td>
+    <td id="agency-preserving-rl"><center>
+      <a><img alt="agency-preserving-rl" width="180" height="90" style="object-fit: contain;" src="../assets/img/agency-hackaton.gif"></a>
+      <div style="margin-top: 0.5rem"><b>agency-preserving-rl</b></div>
+      <a class="repo-description" href="https://github.com/luigiberducci/agency_hackaton/">
+      Training an altruistic agent under partially-observable, evolving and under-represented intentions.
+      </a>
+    </center></td>
 </tr>
 </tbody>
 </table>
