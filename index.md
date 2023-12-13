@@ -29,7 +29,6 @@ My main interests:
         I presented the work on adaptive safety for multi-agent systems at the
         DCRES seminar series of TU Wien.
     </li>
-
     <li>
         <b>[Hackaton - Oct 2023]</b>
         Winner team (EUR 1250) at the
@@ -37,20 +36,17 @@ My main interests:
         for Agency-Preserving Reinforcement Learning, with the project
         <i>"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"</i>,
     </li>
-
     <li>
         <b>[Preprint - Sep 2023]</b>
         The <a href="https://arxiv.org/abs/2309.10657">paper</a>
         <i>"Learning Adaptive Safety for Multi-Agent Systems"</i> is out.
     </li>
-
     <li>
         <b>[Research & Networking - Sep 2023]</b>
         I had the pleasure to participate at the first
         <a href="https://www.marshallplan.at/2023/495-first-two-day-high-performance-trip">High-Performance Trip</a>
         organized by the Marshall Plan Foundation.
     </li>
-
     <li>
         <b>[Paper Accepted - May 2023]</b>
         The <a href="https://arxiv.org/abs/2308.15327v1">paper</a>
@@ -58,14 +54,12 @@ My main interests:
         has been accepted at <b>ICRA 2023</b>'s workshop on
         Effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots).
     </li>
-
     <li>
         <b>[Research Exchange - Feb 2023]</b>
         I am starting a research exchange at the
         <a href="https://xlab.upenn.edu/">xLab</a>
         of the University of Pennsylvania, Philadelphia, USA.
     </li>
-
     <li>
         <b>[Grant - Dec 2022]</b>
         I have been nominated for the
@@ -75,32 +69,27 @@ My main interests:
         (EUR 6500) to support my
         research on safe learning for intelligent autonomous driving systems.
     </li>
-
     <li>
         <b>[Science Booth - Sep 2022]</b>
         Our most-recent research activity on autonomous driving has been presented
         at the Forschungsfest (Science Festival) in Vienna.
     </li>
-
     <li>
         <b>[Paper Accepted - Aug 2022]</b>
         The <a href="https://arxiv.org/abs/2210.11259">paper</a>
         <i>"Safe Policy Improvement in Constrained Markov Decision Processes"</i>
         has been accepted to <b>ISoLA 2022</b>!
     </li>
-
     <li>
         <b>[Seminar - Jun 2022]</b>
         I presented the work on safe policy improvement from formal requirements for RL.
     </li>
-
     <li>
         <b>[F1/10th Grand Prix at ICRA - May 2022]</b>
         Our team *"Scuderia Segfault"* placed 3rd at the 10th
         F1TENTH Autonomous Grand Prix at ICRA2022!
         <a href="https://youtu.be/gk_lNKmZX4I">Video.</a>
     </li>
-
     <li>
         <b>[Paper Accepted - Jan 2022]</b>
         The
@@ -108,27 +97,23 @@ My main interests:
         <i>"Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing"</i>
         has been accepted to <b>ICRA 2022</b>!
     </li>
-
     <li>
         <b>[Seminar - Nov 2021]</b>
         I presented the
         <a href="https://arxiv.org/abs/2110.02792">work</a>
         on automatic reward shaping from multiple formal requirements for RL control tasks.
     </li>
-
     <li>
         <b>[F1/10th Grand Prix at IROS - Oct 2021]</b>
         Our team <i>"Scuderia Segfault"</i> won the 9th F1TENTH Autonomous Grand Prix at IROS2021!
         <a href="https://youtu.be/oI6xHDvLzOg">Video.</a>
     </li>
-
     <li>
         <b>[Poster Session - Sep 2021]</b>
         I presented the project ADEX on Reinforcement Learning for autonomous-driving scenario generation
         at
         <a href="https://www.avl.com/ja/web/guest/-/avl-research-networking-day-2021">AVL Research Networking Day 2021</a>.
     </li>
-
 </ul>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
