@@ -4,7 +4,8 @@ title: Resume
 #subtitle: Why you'd want to go on a date with me
 ---
 
-<object data="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf" type="application/pdf">
+<object data="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf" type="application/pdf" 
+height="800px" >
     <embed src="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng_Oct2023.pdf">
         <p>
         This browser does not support PDFs. 
