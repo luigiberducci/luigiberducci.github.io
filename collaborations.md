@@ -6,6 +6,9 @@ subtitle:
 
 # Researchers I work/ed with:
 
+**[Mirco Giacobbe](https://mircogiacobbe.github.io/)** - Assistant Professor, School of Computer Science, University of Birmingham (10/2023 - Present).
+Topics: Formal Methods, Reinforcement Learning, Control Barrier Functions
+
 **[Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/)** - Professor, Electrical and Systems Engineering, UPenn (09/2022 - Present).
 Topics: Reinforcement Learning, Autonomous Driving, Formal Methods
 
