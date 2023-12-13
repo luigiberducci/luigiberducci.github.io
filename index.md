@@ -8,26 +8,16 @@ I am a PhD student at <a href="https://www.tuwien.at/en/">TU Wien</a>,
 working in the <a href="https://informatics.tuwien.ac.at/orgs/e191-01">Cyber-Physical Systems Group</a>
 under the supervision of <a href="https://ti.tuwien.ac.at/cps/people/grosu">Radu Grosu</a>.
 
-<br/> <br/>
-
 My research interests lie in the study of learning-based approaches able to
 cope with safety-critical environments, under strict operational constraints.
-
 The goal of my work is the enforcement of formal requirements on the behavior
 emergent by automated learning approaches, specifically reinforcement learning.
-
 The application area is autonomous driving and, more in general, robotic systems.
 
-<br/> <br/>
-
 My main interests:
-<ul>
-    <li>Safe and robust learning in real-world systems</li>
-    <li>Reinforcement Learning in robotics</li>
-    <li>Assessment and validation of autonomous controllers</li>
-</ul>
-
-<br/>
+- Safe and robust learning in real-world systems</li>
+- Reinforcement Learning in robotics</li>
+- Assessment and validation of autonomous controllers</li>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <h3>News</h3>
