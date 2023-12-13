@@ -1,29 +1,34 @@
 ---
 layout: page
-title: My Projects Portfolio
-subtitle: This page is under construction
+title: 
+subtitle: 
 ---
 
+This page is still under construction.
+
+## My Research Projects
 <details>
-<summary>
-<h1>My Research Projects</h1>
-</summary>
+<summary>Click me!</summary>
 </details>
 
+## My Reinforcement Learning Projects
 <details>
-<summary>My Reinforcement Learning Projects</summary>
+<summary>Click me!</summary>
 </details>
 
+## My Robotics Projects
 <details>
-<summary>My Robotics Projects</summary>
+<summary>Click me!</summary>
 </details>
 
+## My Formal Methods Projects
 <details>
-<summary>My Formal Methods Projects</summary>
+<summary>Click me!</summary>
 </details>
 
+## My Machine Learning Projects
 <details>
-<summary>My Machine Learning Projects</summary>
+<summary>Click me!</summary>
 </details>
 
 ## auto-shaping (coming soon)
