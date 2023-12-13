@@ -29,7 +29,7 @@ subtitle:
   - [DCRES](https://informatics.tuwien.ac.at/doctoral/resilient-embedded-systems/), Vienna University of Technology, Oct 2020.
 
 - :rocket: **GARR Scholarship (EUR 19,000)**
-  - [Project](https://www.european-funding-guide.eu/scholarship/10526-scholarship-orio-carlini) *"ML4NP: A machine learning approach for Neutrino Physics"*, Feb-Sep 2020.
+  - [Project](https://www.european-funding-guide.eu/scholarship/10526-scholarship-orio-carlini) *"ML4NP: A machine learning approach for Neutrino Physics"*, 2020.
 
 - :mortar_board: **M.Sc. Degree with honors**
   - Sapienza University of Rome, 2020.
