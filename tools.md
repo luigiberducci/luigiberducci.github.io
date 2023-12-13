@@ -42,7 +42,7 @@ Visit [my github](https://github.com/luigiberducci) for more code.
       <a><img alt="agency-preserving-rl" width="180" height="90" style="object-fit: contain;" src="../assets/img/agency-hackaton.gif"></a>
       <div style="margin-top: 0.5rem"><b>agency-preserving-rl</b></div>
       <a class="repo-description" href="https://github.com/luigiberducci/agency_hackaton/">
-      Training an altruistic agent under partially-observable, evolving and under-represented intentions.
+      Training an altruistic agent under partially-observable, evolving and under-represented goals.
       </a>
     </center></td>
 </tr>
