@@ -1,12 +1,12 @@
 ---
 layout: page
-title: My Projects
-subtitle:
+title: My Projects Portfolio
+subtitle: This page is under construction
 ---
 
 <details>
 <summary>
-My Research Projects
+<h1>My Research Projects</h1>
 </summary>
 </details>
 
