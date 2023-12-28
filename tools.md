@@ -82,7 +82,20 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 <details open>
 <summary>Expand/Collapse</summary>
 
-Work in progress...
+<table id="repo-table">
+<tbody>
+<tr>
+    <td id="fosco"><center>
+      <a><img alt="fosco" width="180" height="90" style="object-fit: contain;" src="../assets/img/fosco.gif"></a>
+      <div style="margin-top: 0.5rem"><b>fosco</b></div>
+      <a class="repo-description" href="https://github.com/luigiberducci/fosco">
+      Learner-Verifier framework for formal synthesis of Control Barrier Function. 
+      </a>
+    </center></td>
+</tr>
+</tbody>
+</table>
+
 </details>
 
 ## My Machine Learning Projects
