@@ -59,7 +59,7 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 <tbody>
 <tr>
     <td id="mobile-robotics"><center>
-      <a><img alt="mobile-robotics" width="180" height="90" style="object-fit: contain;" src="../assets/img/mobile_robotics_motion.png"></a>
+      <a><img alt="mobile-robotics" width="180" height="90" style="object-fit: contain;" src="../assets/img/mr_goto_obstacleavoidance.gif"></a>
       <div style="margin-top: 0.5rem"><b>mobile-robotics-ros</b></div>
       <a class="repo-description" href="https://github.com/luigiberducci/mobile_robotics">
       Self-localization, mapping and motion planning for a differential drive robot using ROS. 
