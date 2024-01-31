@@ -19,7 +19,7 @@ author: Luigi Berducci
 navbar-links:
   #News: "news"
   Publications: "publications"
-  My Projects: "tools"
+  My Projects: "projects"
   Collaborations: "collaborations"
   Resume: "resume"
   Awards: "awards"
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/luigiberducci_profile.webp"
+avatar: "/assets/img/best_profile_jumper.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
