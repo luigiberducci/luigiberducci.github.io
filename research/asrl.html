@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Learning Adaptive Safety in Multi-Agent Systems">
+  <meta name="keywords" content="RL, CBF, Multi-agent">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Learning Adaptive Safety in Multi-Agent Systems</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src=""></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/icons8-chat-96.png">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <!--
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://robotics.iiit.ac.in">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://concept-fusion.github.io">
+            ConceptFusion
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  -->
+
+</nav>
+<!-- https://youtu.be/vYzrRQq-K6Q -->
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-3 publication-title">Learning Adaptive Safety in Multi-Agent Systems</h1>
+          <h2 class="title is-6 publlication-title">Accepted at ICRA 2024</h2>
+          <div class="is-size-6 publication-authors">
+            <span class="author-block">
+              <a href="https://luigiberducci.github.io/">Luigi Berducci</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://shuoyang2000.github.io/">Shuo Yang</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=b9WsJN4AAAAJ&hl=en">Rahul Mangahram</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=1g_muAgAAAAJ&hl=en">Radu Grosu</a><sup>1</sup>,
+            </span>
+            </div>
+
+          <div class="is-size-6">
+            <span class="author-block"><sup>1</sup> <a class="text-black" href="https://informatics.tuwien.ac.at/orgs/e191-01">Technische Universität Wien (TU Wien)</a></span>
+            <span class="author-block"><sup>2</sup> <a class="text-black" href="https://xlab.upenn.edu/">University of Pennsylvania (UPenn)</a></span>
+          </div>
+          <!--
+          <div>
+            <sup>*</sup> Equal Contribution
+            \( ^\dagger  \) Equal Advising
+          </div>
+          -->
+
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2309.10657"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <span class="link-block">
+                <a href="https://youtu.be/NDOsWzt1xWo?si=O_aqTPTkuqe1oQ3Q"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/luigiberducci/learning_adaptive_safety"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <!--
+              <span class="link-block">
+                <a href="https://github.com/llmbev/"
+                   class="external-link button is-normal is-rounded is-dark" disabled="true">
+                  <span class="icon">
+                      <i class="fab fa-database"></i>
+                  </span>
+                  <span>Bench</span>
+                  </a>
+              </span>
+              -->
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div  class="container is-max-desktop">
+      <!-- <video poster="" id="laundry-bag" autoplay controls muted loop playsinline height="100%" width="100%">
+        <source src="./static/videos/teaser_presentation_compressed.mp4" type="video/mp4">
+      </video> -->
+      <div id="teaserContainer">
+        <!-- Video will be embedded here -->
+      </div>
+      <div class="is-size-7">
+        We present ASRL, a novel adaptive safe RL framework, to fully automate the optimization of policy and CBF coefficients,
+        to enhance safety and long-term performance through reinforcement learning.
+        By directly interacting with the other agents, ASRL learns to cope with diverse agent behaviours and
+        maintains the cost violations below a desired limit.
+      </h2>
+    </div>
+  </div>
+</section>
+
+<section class="hero is-light is-small">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div id="results-carousel" class="">
+        <div class="item">
+          <div id="carouselContainer">
+          </div>
+        </div>
+      <!-- <div class="carousel results-carousel">
+        <div class="item item-steve">
+
+        </div>
+        <div class="item item-chair-tp">
+          <video poster="" id="chair-tp" autoplay controls muted loop playsinline height="100%">
+            <source src="./static/videos/parking.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+      </div> -->
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Ensuring safety in dynamic multi-agent systems is challenging due to limited information
+            about the other agents.
+            Control Barrier Functions (CBFs) are showing promise for safety assurance but current methods
+            make strong assumptions about other agents and often rely on manual tuning to balance safety,
+            feasibility, and performance. In this work, we delve into the problem of adaptive safe learning
+            for multi-agent systems with CBF. We show how emergent behavior can be profoundly influenced by
+            the CBF configuration, highlighting the necessity for a responsive and dynamic approach to CBF design.
+            We present ASRL, a novel adaptive safe RL framework, to fully automate the optimization of policy and
+            CBF coefficients, to enhance safety and long-term performance through reinforcement learning.
+            By directly interacting with the other agents, ASRL learns to cope with diverse agent behaviours and
+            maintains the cost violations below a desired limit. We evaluate ASRL in a multi-robot system and
+            a competitive multi-agent racing scenario, against learning-based and control-theoretic approaches.
+            We empirically demonstrate the efficacy and flexibility of ASRL, and assess generalization and
+            scalability to out-of-distribution scenarios.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+    <!-- i find this not useful
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src="https://www.youtube.com/embed/TMht-8SGJ0I"
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    -->
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Approach. -->
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3 has-text-centered">Approach</h2>
+        <!-- Interpolating. -->
+        <div class="content has-text-justified">
+          <ol>
+            <li>
+              We encode a sequence of observations \( o_{t-k}, ..., o_t \) into a latent representation \( z_t \).
+              Then, we feed \( z_t \) into a high-level module that is a multi-head network.
+            </li>
+            <li>
+              Using a policy head, we generate the candidate action \( a(z_t) \).
+            </li>
+            <li>
+              Using the adaptive safety head, we generate the candidate CBF coefficients \( \gamma(z_t) \).
+            </li>
+            <li>
+              The candidate action and CBF coefficients are then given to the low-level module,
+              which computes the safe action \( a_{t} \) executed in the environment.
+            </li>
+            <li>
+              We train the high-level module by solving a constrained optimization problem that
+              maximizes the expected return while keeping the cost violations below a desired limit.
+              At each time step, the CBF coefficients adapts to the current state of the environment,
+              to balance safety and long-term performance.
+            </li>
+          </ol>
+        </div>
+
+        <div class="columns is-vcentered">
+          <img src="./static/images/asrl-framework-adaptive_cropped_white.png"/>
+        </div>
+
+
+        <br/>
+        <!--/ Interpolating. -->
+
+      </div>
+    </div>
+
+    <!--
+    <h2 class="title is-3 has-text-centered">Comparison End-to-end Baselines.</h2>
+    <div class="columns is-centered">
+      <img src="./static/images/asrl-learning-curves-end2end.png">
+    </div>
+
+    <h2 class="title is-3 has-text-centered">Comparison Control-Theoretic Baselines.</h2>
+    <div class="columns is-centered">
+      <img src="./static/images/asrl-ablation-study-barplot.png">
+    </div>
+    -->
+
+    <h2 class="title is-3 has-text-centered">Generalization Evaluation</h2>
+
+    We evaluate the generalization capabilities of our trained agent in various multi-agent racing scenarios including:
+    <ol>
+    <li> varying the number of agents, </li>
+    <li> in-distribution planners with varying velocity profiles, and </li>
+    <li> out-of-distribution planners with new strategies and varying velocity profiles. </li>
+    </ol>
+
+    <br/>
+
+    For each scenario,
+    we sample many starting positions with the ego behind other agents (Figure, top left)
+    and run simulations for 60 seconds.
+    We consider collision or lap completion as termination conditions
+    and measure the final positioning (rank) as common in racing competitions.
+
+    <br/>
+    <br/>
+
+    <div class="columns is-centered">
+      <img src="./static/images/asrl-square_rank.png">
+    </div>
+
+    <!-- Concurrent Work. -->
+    <!--
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Related Links</h2>
+
+        <div class="content has-text-justified">
+          <p>
+            There are many previous works which bind Language and Vision for Autonomous Driving - <a href="https://arxiv.org/abs/1909.10838">Talk2Car</a>, <a href="https://arxiv.org/abs/2303.03366">ReferKITTI</a>.
+          </p>
+          <p>
+            Concurrent to our work is <a href="https://arxiv.org/abs/2305.14836">NuScenesQA</a> which attempts VQA in autonomous driving scenarios on top of BEV networks.
+          </p>
+          <p>
+            Works like <a href="https://arxiv.org/abs/2309.04379v1">NuPrompt</a> attempt Language-Image grounding with Large-Language models.
+          </p>
+        </div>
+      </div>
+    </div>
+    -->
+
+  </div>
+</section>
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>
+      @article{berducci2023learning,
+        title={Learning adaptive safety for multi-agent systems},
+        author={Berducci, Luigi and Yang, Shuo and Mangharam, Rahul and Grosu, Radu},
+        journal={arXiv preprint arXiv:2309.10657},
+        year={2023}
+      }
+    </code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+            This means you are free to borrow the source code of this website,
+            we just ask that you link back to this page in the footer.
+            Please remember to remove the analytics code included in the header of the website which
+            you do not want on your website.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+<script>
+  function isVideoEmbeddable(videoId) {
+    return fetch(`https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`)
+        .then(response => {
+          console.log(response.status)
+            if(response.status === 200) {
+                return true;
+            }
+            return false;
+        })
+        .catch(() => false);
+  }
+  const videoId = 'dQw4w9WgXcQ'; // Rick roll
+  isVideoEmbeddable(videoId).then(embeddable => {
+      if (embeddable) {
+          document.getElementById('teaserContainer').innerHTML = `
+            <div class="publication-video">
+              <iframe src="https://www.youtube.com/embed/NDOsWzt1xWo?si=EWX0HRXbWvYHeOEO" allow="autoplay" frameborder="0" allowfullscreen></iframe>
+            </div>
+          `;
+
+          /**document.getElementById('spatial1Container').innerHTML = `
+            <div class="spatial-video">
+              <iframe src="https://www.youtube.com/embed/zoBs8JTd5kw?vq=hd720&autoplay=1&mute=1&loop=1&playlist=zoBs8JTd5kw" allow="autoplay" frameborder="0" allowfullscreen></iframe>
+            </div>
+          `
+
+          document.getElementById('spatial2Container').innerHTML = `
+            <div class="spatial-video">
+              <iframe src="https://www.youtube.com/embed/wsMWgMiv1BQ?vq=hd720&autoplay=1&mute=1&mute=1&loop=1&playlist=wsMWgMiv1BQ" allow="autoplay" frameborder="0" allowfullscreen></iframe>
+            </div>
+          `
+
+          document.getElementById('carouselContainer').innerHTML = `
+            <div class="carousel-video">
+              <iframe src="https://www.youtube.com/embed/syRbYBmq5kY?vq=hd720&autoplay=1&mute=1&loop=1&playlist=syRbYBmq5kY" allow="autoplay" frameborder="0" allowfullscreen></iframe>
+            </div>
+          `
+          */
+      }
+  });
+</script>
+</html>
