@@ -25,6 +25,13 @@ My main interests:
 
 <ul style="height: 300px; overflow: auto">
     <li>
+        <b>[Paper Accepted - Jan 2024]</b>
+        The paper 
+        <a href="https://arxiv.org/abs/2309.10657">paper</a>
+        <i>"Learning Adaptive Safety for Multi-Agent Systems"</i> 
+        has been accepted at <b>ICRA 2024</b>!
+    </li>
+    <li>
         <b>[Seminar - Nov 2023]</b>
         I presented the work on adaptive safety for multi-agent systems at the
         DCRES seminar series of TU Wien.

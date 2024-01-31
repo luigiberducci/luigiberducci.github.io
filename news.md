@@ -4,6 +4,9 @@ title: News
 subtitle:
 ---
 
+**[Paper Accepted][Jan 2024]** The paper *"Learning Adaptive Safety for Multi-Agent Systems"* 
+has been accepted at **ICRA 2024**!
+
 **[Seminar][Nov 2023]** 
 I presented the work on adaptive safety for multi-agent systems at the
 DCRES seminar series of TU Wien.

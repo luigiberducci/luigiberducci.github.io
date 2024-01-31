@@ -7,7 +7,7 @@ subtitle: Papers, preprints, reports of my research activity
 
 **Learning Adaptive Safety for Multi-Agent Systems**
 *Luigi Berducci, Shuo Yang, Rahul Mangharam, Radu Grosu.*
-**Under Review**. 
+IEEE International Conference on Robotics and Automation (ICRA), 2024. 
 [:page_facing_up:](https://arxiv.org/abs/2309.10657) 
 [:movie_camera:](https://youtu.be/NDOsWzt1xWo?si=C5kRe47P6TYrKI4J)
 
@@ -61,3 +61,4 @@ I serve/ed as reviewer for the following conferences and journals:
 - International Conference on Machine Learning (ICML)
 - IROS 2023 Workshop on Multi-agent Dynamic Games (MAD-Games)
 - Journal of Field Robotics
+- and others...
