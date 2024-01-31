@@ -39,9 +39,8 @@ My main interests:
     <li>
         <b>[Hackaton - Oct 2023]</b>
         Winner team (EUR 1250) at the
-        <a href="https://alignmentjam.com/jam/agency">hackaton</a>
-        for Agency-Preserving Reinforcement Learning, with the project
-        <i>"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"</i>,
+        <a href="https://alignmentjam.com/jam/agency">AI Safety Hackaton</a>
+        for Agency-Preserving Reinforcement Learning.
     </li>
     <li>
         <b>[Preprint - Sep 2023]</b>
