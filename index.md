@@ -25,6 +25,13 @@ My main interests:
 
 <ul style="height: 300px; overflow: auto">
     <li>
+        <b>[Paper Accepted - Jan 2024]</b>
+        The 
+        <a href="https://arxiv.org/abs/2309.10657">paper</a>
+        <i>"Learning Adaptive Safety for Multi-Agent Systems"</i> 
+        has been accepted at <b>ICRA 2024</b>!
+    </li>
+    <li>
         <b>[Seminar - Nov 2023]</b>
         I presented the work on adaptive safety for multi-agent systems at the
         DCRES seminar series of TU Wien.
@@ -32,9 +39,8 @@ My main interests:
     <li>
         <b>[Hackaton - Oct 2023]</b>
         Winner team (EUR 1250) at the
-        <a href="https://alignmentjam.com/jam/agency">hackaton</a>
-        for Agency-Preserving Reinforcement Learning, with the project
-        <i>"Preserving Agency in Reinforcement Learning under Unknown, Evolving and Under-Represented Intentions"</i>,
+        <a href="https://alignmentjam.com/jam/agency">AI Safety Hackaton</a>
+        for Agency-Preserving Reinforcement Learning.
     </li>
     <li>
         <b>[Preprint - Sep 2023]</b>
