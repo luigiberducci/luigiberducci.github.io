@@ -11,6 +11,11 @@ IEEE International Conference on Robotics and Automation (ICRA), 2024.
 [:page_facing_up:](https://arxiv.org/abs/2309.10657) 
 [:movie_camera:](https://youtu.be/NDOsWzt1xWo?si=C5kRe47P6TYrKI4J)
 
+**Safe Learning under Assumptions in Human-Robot Systems**
+*Luigi Berducci, Shuo Yang, Mirco Giacobbe, Rahul Mangharam, Radu Grosu.*
+IEEE International Conference on Robotics and Automation (ICRA), 2024, 
+Workshop on Design, Shared Control, and Robot Learning for Physical Human-Robot Interaction (pHRI).
+
 **Enhancing Robot Learning through Learned Human-Attention Feature Maps**
 *Daniel Scheuchenstuhl\*, Stefan Ulmer\*, Felix Resch\*, Luigi Berducci, Radu Grosu.*
 IEEE International Conference on Robotics and Automation (ICRA), 2023, 
@@ -30,6 +35,11 @@ IEEE International Conference on Robotics and Automation (ICRA), 2022.
 
 
 # Preprints
+
+**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**
+*Axel Brunnbauer, Luigi Berducci, Peter Priller, Dejan Nickovic, Radu Grosu.*
+Preprint, 2024. 
+[:page_facing_up:](https://arxiv.org/abs/2403.17805)
 
 **Hierarchical Potential-based Reward Shaping from Task Specifications**
 *Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
@@ -56,6 +66,7 @@ B.Sc. Thesis, Sapienza University of Rome, 2017.
 ### Academic Service
 I serve/ed as reviewer for the following conferences and journals:
 - IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - International Conference on Machine Learning (ICML)

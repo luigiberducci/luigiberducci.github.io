@@ -4,6 +4,17 @@ title: News
 subtitle:
 ---
 
+**[Paper Accepted][April 2024]** 
+The paper *"Safe Learning under Assumptions in Human-Robot Systems"* 
+has been accepted at **ICRA 2023**'s workshop on 
+Design, Shared Control, and Robot Learning for Physical Human-Robot Interaction (pHRI)!
+
+**[Preprint][March 2024]** 
+The preprint of 
+*"Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving"*
+is out.
+[Preprint](https://arxiv.org/abs/2403.17805)
+
 **[Paper Accepted][Jan 2024]** The paper *"Learning Adaptive Safety for Multi-Agent Systems"* 
 has been accepted at **ICRA 2024**!
 

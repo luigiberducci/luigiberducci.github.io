@@ -25,6 +25,20 @@ My main interests:
 
 <ul style="height: 300px; overflow: auto">
     <li>
+        <b>[Paper Accepted - April 2024]</b>
+        The <a href="https://sites.google.com/view/icra24-physical-hri">paper</a>
+        <i>"Safe Learning under Assumptions in Human-Robot Systems"</i>
+        has been accepted at <b>ICRA 2024</b>'s workshop on
+        Design, Shared Control, and Robot Learning for Physical Human-Robot Interaction (pHRI).
+    </li>
+    <li>
+        <b>[Preprint - March 2024]</b>
+        The 
+        <a href="https://arxiv.org/abs/2403.17805">preprint</a>
+        <i>"Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving"</i> 
+        is out.
+    </li>
+    <li>
         <b>[Paper Accepted - Jan 2024]</b>
         The 
         <a href="https://arxiv.org/abs/2309.10657">paper</a>
