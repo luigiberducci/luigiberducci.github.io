@@ -24,6 +24,18 @@ Topics: Reward Shaping, Autonomous Driving, Reinforcement Learning
 **[Shuo Yang](https://shuoyang2000.github.io/)** - Ph.D. Student, Electrical and Systems Engineering, MLab, UPenn (09/2022 - Present).
 Topics: Reinforcement Learning, Autonomous Driving, Formal Methods
 
+**[Philipp Mandl](https://www.linkedin.com/in/p-mandl/)** - Ph.D. Student, Mechanical Engineering, Vehicle System Dynamics Group, TUW (05/2023 - Present).
+Topics: F1Tenth Autonomous Racing, Model Predictive Control
+
+**[Philipp Gratzer](https://www.linkedin.com/in/philipp-gratzer-575046222/)** - Ph.D. Student, Mechanical Engineering, Vehicle System Dynamics Group, TUW (05/2023 - Present).
+Topics: F1Tenth Autonomous Racing, Raceline Optimization
+
+**[Agnes Poks](https://www.linkedin.com/in/agnes-poks-13a1aa136)** - Ph.D. Student, Mechanical Engineering, Vehicle System Dynamics Group, TUW (05/2023 - Present).
+Topics: F1Tenth Autonomous Racing, Model Predictive Control
+
+**[Felix Resch](https://www.linkedin.com/in/felix-resch-3358902b6)** - Ph.D. Student, Computer Science, CPS Group, TU Wien (06/2021 - Present).
+Topics: F1Tenth Autonomous Racing, Reinforcement Learning, Human-attention model
+
 **[Andreas Brandstätter]()** - Ph.D. Student, Computer Science, CPS Group, TU Wien (10/2020 - Present).
 Topics: Model-based Deep Reinforcement Learning for Autonomous Driving, F1Tenth Autonomous Racing
 
@@ -42,18 +54,21 @@ Topics: Model-based Deep Reinforcement Learning for Autonomous Driving
 
 # M.Sc. and B.Sc. Students I work/ed with:
 
-**Fabian Kresse** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
+**Fabian Kresse** - M.Sc. in Computer Engineering, TU Wien (06/2021 - Present)
 Topics: F1Tenth Autonomous Racing, Safe Reinforcement Learning
 
-**Felix Resch** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
-Topics: F1Tenth Autonomous Racing, Reinforcement Learning, Human-attention model
+**Moritz Christamentl** - M.Sc. in Computer Engineering, TU Wien (06/2021 - Present)
+Topics: F1Tenth Autonomous Racing
+
+**Larisa Clement** - M.Sc. in Computer Engineering, TU Wien (02/2024 - Present)
+Topics: F1Tenth Autonomous Racing
+
+**Mihai-Teodor Stanusoiu** - M.Sc. in Computer Engineering, TU Wien (02/2024 - Present)
+Topics: F1Tenth Autonomous Racing
 
 **Daniel Scheuchenstuhl** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
 Topics: F1Tenth Autonomous Racing, Object Detection, Human-attention model
 
-**Stefan Ulmer** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
+**Stefan Ulmer** - M.Sc. in Computer Science, TU Wien (06/2021 - 10/2023)
 Topics: F1Tenth Autonomous Racing, Imitation Learning, Human-attention model
-
-**Moritz Christamentl** - M.Sc. in Computer Science, TU Wien (06/2021 - Present)
-Topics: F1Tenth Autonomous Racing
 
