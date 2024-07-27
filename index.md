@@ -25,6 +25,12 @@ My main interests:
 
 <ul style="height: 300px; overflow: auto">
     <li>
+        <b>[Internship - July 2024]</b>
+        I joined the Reinforcement Learning Team at 
+        <a href="https://www.swiss-mile.com/">Swiss-Mile Robotics</a>
+        for a 4-months internship on locomotion for wheeled-legged robots.
+    </li>
+    <li>
         <b>[Paper Accepted - April 2024]</b>
         The <a href="https://sites.google.com/view/icra24-physical-hri">paper</a>
         <i>"Safe Learning under Assumptions in Human-Robot Systems"</i>

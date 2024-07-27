@@ -98,6 +98,7 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 
 </details>
 
+<!--
 ## My Machine Learning Projects
 <details open>
 <summary>Expand/Collapse</summary>
@@ -116,6 +117,7 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 </tbody>
 </table>
 
-</details>
 
+</details>
+-->
 
