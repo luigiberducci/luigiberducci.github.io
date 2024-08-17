@@ -18,7 +18,9 @@ Visit [my github](https://github.com/luigiberducci) for more code.
     <td id="wheeled-legged locomotion"><center>
       <a><img alt="auto-shaping" width="180" height="90" style="object-fit: contain;" src="../assets/img/milo_robot.png"></a>
       <div style="margin-top: 0.5rem"><b>wheeled-legged locomotion</b></div> 
+      <a class="repo-description" href="https://www.swiss-mile.com/">
       Robust locomotion with RL for wheeled-legged robots (Unitree B2).
+      </a>
     </center></td>  
     <td id="racing-dreamer"><center>
       <a><img alt="racing-dreamer" width="180" height="90" style="object-fit: contain;" src="../assets/img/racing-dreamer.gif"></a>
