@@ -15,6 +15,11 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 <table id="repo-table">
 <tbody>
 <tr>
+    <td id="wheeled-legged locomotion"><center>
+      <a><img alt="auto-shaping" width="180" height="90" style="object-fit: contain;" src="../assets/img/milo_robot.png"></a>
+      <div style="margin-top: 0.5rem"><b>wheeled-legged locomotion</b></div> 
+      RL for robust locomotion for wheeled-legged robots (Unitree B2).
+    </center></td> 
     <td id="auto-shaping"><center>
       <a><img alt="auto-shaping" width="180" height="90" style="object-fit: contain;" src="../assets/img/auto-shaping-logo.svg"></a>
       <div style="margin-top: 0.5rem"><b>auto-shaping</b></div>
