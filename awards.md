@@ -7,6 +7,9 @@ subtitle:
 <!-- https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia -->
 
 
+- :trophy: **4th Place Team "Scuderia Segfault"**
+  - [15th F1TENTH Autonomous Grand Prix at ICRA2024](https://www.tuwien.at/inf/f1tenth/news-detail/15th-grand-prix/), May 2024.
+
 - :trophy: **1st Place L.Berducci & H.Powell (USD 1,250)**
   - [Agency-Preserving RL Track, AI Agency Challenge](https://alignmentjam.com/jam/agency), Sep 2023.
 
