@@ -18,7 +18,7 @@ Visit [my github](https://github.com/luigiberducci) for more code.
     <td id="wheeled-legged locomotion"><center>
       <a><img alt="auto-shaping" width="180" height="90" style="object-fit: contain;" src="../assets/img/milo_robot.png"></a>
       <div style="margin-top: 0.5rem"><b>wheeled-legged locomotion</b></div> 
-      RL for robust locomotion for wheeled-legged robots (Unitree B2).
+      Robust locomotion with RL for wheeled-legged robots (Unitree B2).
     </center></td>  
     <td id="racing-dreamer"><center>
       <a><img alt="racing-dreamer" width="180" height="90" style="object-fit: contain;" src="../assets/img/racing-dreamer.gif"></a>
@@ -26,23 +26,16 @@ Visit [my github](https://github.com/luigiberducci) for more code.
       <a class="repo-description" href="https://github.com/CPS-TUWien/racing_dreamer">
       Model-based RL for autonomous racing trained on latent imagination learned from high-dimensional LiDAR data.  
       </a>
-    </center></td>
+    </center></td> 
+</tr>
+<tr> 
     <td id="racecar-gym"><center>
       <a><img alt="racecar-gym" width="180" height="90" style="object-fit: contain;" src="../assets/img/racecar_single.gif"></a>
       <div style="margin-top: 0.5rem"><b>racecar-gym</b></div>
       <a class="repo-description" href="https://github.com/axelbr/racecar_gym">
       A gym environment for a miniature, F1Tenth-like racecar using the bullet physics engine with pybullet.
       </a>
-    </center></td>
-</tr>
-<tr> 
-    <td id="agency-preserving-rl"><center>
-      <a><img alt="agency-preserving-rl" width="180" height="90" style="object-fit: contain;" src="../assets/img/agency-hackaton.gif"></a>
-      <div style="margin-top: 0.5rem"><b>agency-preserving-rl</b></div>
-      <a class="repo-description" href="https://github.com/luigiberducci/agency_hackaton/">
-      Training an altruistic agent under partially-observable, evolving and under-represented goals.
-      </a>
-    </center></td>
+    </center></td> 
     <td id="auto-shaping"><center>
       <a><img alt="auto-shaping" width="180" height="90" style="object-fit: contain;" src="../assets/img/auto-shaping-logo.svg"></a>
       <div style="margin-top: 0.5rem"><b>auto-shaping</b></div>
@@ -50,6 +43,15 @@ Visit [my github](https://github.com/luigiberducci) for more code.
       Specification-based library for automatic reward shaping. 
       </a>
     </center></td> 
+</tr>
+<tr>
+    <td id="agency-preserving-rl"><center>
+      <a><img alt="agency-preserving-rl" width="180" height="90" style="object-fit: contain;" src="../assets/img/agency-hackaton.gif"></a>
+      <div style="margin-top: 0.5rem"><b>agency-preserving-rl</b></div>
+      <a class="repo-description" href="https://github.com/luigiberducci/agency_hackaton/">
+      Training an altruistic agent under partially-observable, evolving and under-represented goals.
+      </a>
+    </center></td>
 </tr>
 </tbody>
 </table>
