@@ -6,6 +6,12 @@ subtitle:
 
 # Researchers I work/ed with:
 
+**[Marko Bjelonic](https://www.markobjelonic.com/)** - Robotics Researcher and Entrepreneur, Swiss-Mile Robotics (07/2024 - Present).
+Topics: Reinforcement Learning, Dynamic Locomotion for Wheeled-Legged Robots
+
+**[Lorenz Wellhausen](https://www.linkedin.com/in/wellhausen/)** - Robotics Researcher and Entrepreneur, Swiss-Mile Robotics (07/2024 - Present).
+Topics: Reinforcement Learning, Dynamic Locomotion for Wheeled-Legged Robots
+
 **[Mirco Giacobbe](https://mircogiacobbe.github.io/)** - Assistant Professor, School of Computer Science, University of Birmingham (10/2023 - Present).
 Topics: Formal Methods, Reinforcement Learning, Control Barrier Functions
 
@@ -29,6 +35,9 @@ Topics: F1Tenth Autonomous Racing, Model Predictive Control
 
 **[Philipp Gratzer](https://www.linkedin.com/in/philipp-gratzer-575046222/)** - Ph.D. Student, Mechanical Engineering, Vehicle System Dynamics Group, TUW (05/2023 - Present).
 Topics: F1Tenth Autonomous Racing, Raceline Optimization
+
+**[Monika Farsang](https://informatics.tuwien.ac.at/people/monika-farsang)** - Ph.D. Student, Computer Engineering, CPS Group, TU Wien (05/2023 - Present).
+Topics: F1Tenth Autonomous Racing
 
 **[Agnes Poks](https://www.linkedin.com/in/agnes-poks-13a1aa136)** - Ph.D. Student, Mechanical Engineering, Vehicle System Dynamics Group, TUW (05/2023 - Present).
 Topics: F1Tenth Autonomous Racing, Model Predictive Control
