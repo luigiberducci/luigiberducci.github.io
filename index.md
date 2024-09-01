@@ -32,8 +32,8 @@ My main interests:
     </li>
     <li>
         <b>[F1/10th Grand Prix at ICRA - May 2024]</b>
-        Our team *"Scuderia Segfault"* placed 4th over 20 participating teams 
-        at the 15th F1TENTH Autonomous Grand Prix at ICRA2022!
+        Our team "Scuderia Segfault" placed 4th over 20 participating teams 
+        at the 15th F1TENTH Autonomous Grand Prix at <b>ICRA 2024</b>!
         <a href="https://www.tuwien.at/inf/f1tenth/news-detail/15th-grand-prix/">Press.</a>
     </li>
     <li>
