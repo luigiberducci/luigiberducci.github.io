@@ -5,6 +5,12 @@ subtitle: Papers, preprints, reports of my research activity
 ---
 # Papers
 
+**HPRS: Hierarchical Potential-based Reward Shaping from Task Specifications**
+*Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
+Journal Frontiers in Robotics and AI, 2023. 
+[:page_facing_up:](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/abstract)
+[:movie_camera:](https://www.youtube.com/watch?v=FbDVjWtRwrE)
+
 **Learning Adaptive Safety for Multi-Agent Systems**
 *Luigi Berducci, Shuo Yang, Rahul Mangharam, Radu Grosu.*
 IEEE International Conference on Robotics and Automation (ICRA), 2024. 

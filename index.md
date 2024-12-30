@@ -25,6 +25,12 @@ My main interests:
 
 <ul style="height: 300px; overflow: auto">
     <li>
+        <b>[Paper Accepted - December 2024]</b>
+        The <a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/abstract">paper</a>
+        <i>"HPRS: Hierarchical Potential-based Reward Shaping from Task Specifications"</i>
+        has been accepted for journal publication at <b>Frontiers in Robotics and AI</b>.
+    </li>
+    <li>
         <b>[Internship - July 2024]</b>
         I joined the Reinforcement Learning Team at 
         <a href="https://www.swiss-mile.com/">Swiss-Mile Robotics</a>
