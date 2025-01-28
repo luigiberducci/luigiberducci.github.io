@@ -5,6 +5,11 @@ subtitle: Papers, preprints, reports of my research activity
 ---
 # Papers
 
+**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**
+*Axel Brunnbauer, Luigi Berducci, Peter Priller, Dejan Nickovic, Radu Grosu.*
+IEEE International Conference on Robotics and Automation (ICRA), 2024. 
+[:page_facing_up:](https://arxiv.org/abs/2403.17805)
+
 **HPRS: Hierarchical Potential-based Reward Shaping from Task Specifications**
 *Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
 Journal Frontiers in Robotics and AI, 2023. 
