@@ -1,0 +1,66 @@
+/* Awards page: stacked wide cards with a native emoji on the left. */
+
+.awards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0 2rem;
+}
+
+.award {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.9rem 1.1rem;
+  border-radius: 12px;
+  background: #f5f6f7;
+}
+
+.award-emoji {
+  flex: 0 0 auto;
+  font-size: 1.9rem;
+  line-height: 1;
+}
+
+.award-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.award-title {
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.award-detail {
+  margin-top: 0.15rem;
+  color: #6b6b6b;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.award-date {
+  flex: 0 0 auto;
+  align-self: flex-start;
+  padding-top: 0.15rem;
+  color: #8a8a8a;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+@media (max-width: 575px) {
+  .award {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    row-gap: 0.4rem;
+  }
+  .award-emoji {
+    font-size: 1.6rem;
+  }
+  .award-date {
+    order: -1;
+    flex-basis: 100%;
+    padding-top: 0;
+  }
+}
