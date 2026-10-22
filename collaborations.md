@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaboration
+title: Collaborations
 subtitle:
 ---
 
@@ -18,7 +18,7 @@ Topics: Formal Methods, Reinforcement Learning, Control Barrier Functions
 **[Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/)** - Professor, Electrical and Systems Engineering, UPenn (09/2022 - Present).
 Topics: Reinforcement Learning, Autonomous Driving, Formal Methods
 
-**[Edgar Aguilar Lozano](linkedin.com/in/edalexaguilar)** - Research Scientist, Quantum Physics, AIT Austrian Institute of Technology (01/2021 - Present).
+**[Edgar Aguilar Lozano](https://www.linkedin.com/in/edalexaguilar)** - Research Scientist, Quantum Physics, AIT Austrian Institute of Technology (01/2021 - Present).
 Topics: Reward Shaping, Autonomous Driving, Reinforcement Learning
 
 **[Dejan Nickovic](https://sites.google.com/view/nickovic/)** - Senior Research Scientist, Computer Science, AIT Austrian Institute of Technology (01/2021 - Present).

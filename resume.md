@@ -4,6 +4,8 @@ title: Resume
 #subtitle: Why you'd want to go on a date with me
 ---
 
+[Download my resume (PDF)](/assets/resources/BerducciLuigi_ResumeEng.pdf)
+
 <object data="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng.pdf" type="application/pdf" 
 height="700px" width="700px">
     <embed src="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng.pdf">

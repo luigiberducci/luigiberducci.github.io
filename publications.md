@@ -5,20 +5,23 @@ subtitle: Papers, preprints, reports of my research activity
 ---
 # Papers
 
-**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**
+**Scenario-Based Curriculum Generation for Multi-Agent Driving**
 *Axel Brunnbauer, Luigi Berducci, Peter Priller, Dejan Nickovic, Radu Grosu.*
-IEEE International Conference on Robotics and Automation (ICRA), 2024. 
-[:page_facing_up:](https://arxiv.org/abs/2403.17805)
+IEEE International Conference on Robotics and Automation (ICRA), 2025. 
+[:page_facing_up:](https://ieeexplore.ieee.org/document/11128162)
+[:scroll:](https://arxiv.org/abs/2403.17805)
 
 **HPRS: Hierarchical Potential-based Reward Shaping from Task Specifications**
 *Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
-Journal Frontiers in Robotics and AI, 2023. 
+Journal Frontiers in Robotics and AI, 2025. 
+[:link:](https://sites.google.com/view/hprewardshaping/)
 [:page_facing_up:](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/abstract)
 [:movie_camera:](https://www.youtube.com/watch?v=FbDVjWtRwrE)
 
 **Learning Adaptive Safety for Multi-Agent Systems**
 *Luigi Berducci, Shuo Yang, Rahul Mangharam, Radu Grosu.*
 IEEE International Conference on Robotics and Automation (ICRA), 2024. 
+[:link:](/research/asrl.html)
 [:page_facing_up:](https://arxiv.org/abs/2309.10657) 
 [:movie_camera:](https://youtu.be/NDOsWzt1xWo?si=C5kRe47P6TYrKI4J)
 
@@ -45,27 +48,11 @@ IEEE International Conference on Robotics and Automation (ICRA), 2022.
 [:movie_camera:](https://www.youtube.com/watch?v=IlN3vJxC30w)
 
 
-# Preprints
-
-**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**
-*Axel Brunnbauer, Luigi Berducci, Peter Priller, Dejan Nickovic, Radu Grosu.*
-Preprint, 2024. 
-[:page_facing_up:](https://arxiv.org/abs/2403.17805)
-
-**Hierarchical Potential-based Reward Shaping from Task Specifications**
-*Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković.*
-Preprint, 2021. 
-[:link:](https://sites.google.com/view/hprewardshaping/)
-[:page_facing_up:](https://arxiv.org/abs/2110.02792)
-[:movie_camera:](https://www.youtube.com/watch?v=FbDVjWtRwrE)
-
-**Model-based versus Model-free Deep Reinforcement Learning for Autonomous Racing Cars**
-*Axel Brunnbauer, Luigi Berducci, Andreas Brandstätter, Mathias Lechner, Ramin Hasani, Daniela Rus, Radu Grosu.*
-Preprint, 2021. 
-[:page_facing_up:](https://arxiv.org/abs/2103.04909)
-
-
 # Theses
+**Ph.D. Thesis**
+*Supervisor: Radu Grosu.*
+Ph.D. Thesis, TU Wien.
+
 **Failure Probability Estimation for Autonomous Systems through Deep Reinforcement Learning and Importance Splitting**
 *Supervisors: Enrico Tronci, Radu Grosu.*
 M.Sc. Thesis, Sapienza University of Rome, 2020.

@@ -4,8 +4,6 @@ title: My Projects
 subtitle: 
 ---
 
-This page is still under construction.
-
 Visit [my github](https://github.com/luigiberducci) for more code.
 
 ## My Reinforcement Learning Projects
@@ -16,7 +14,7 @@ Visit [my github](https://github.com/luigiberducci) for more code.
 <tbody>
 <tr>
     <td id="wheeled-legged locomotion"><center>
-      <a><img alt="auto-shaping" width="180" height="90" style="object-fit: contain;" src="../assets/img/milo_robot.png"></a>
+      <a><img alt="wheeled-legged locomotion" width="180" height="90" style="object-fit: contain;" src="../assets/img/milo_robot.png"></a>
       <div style="margin-top: 0.5rem"><b>wheeled-legged locomotion</b></div> 
       <a class="repo-description" href="https://www.swiss-mile.com/">
       Robust locomotion with RL for wheeled-legged robots (Unitree B2).
@@ -52,6 +50,13 @@ Visit [my github](https://github.com/luigiberducci) for more code.
       <div style="margin-top: 0.5rem"><b>agency-preserving-rl</b></div>
       <a class="repo-description" href="https://github.com/luigiberducci/agency_hackaton/">
       Training an altruistic agent under partially-observable, evolving and under-represented goals.
+      </a>
+    </center></td>
+    <td id="learning-adaptive-safety"><center>
+      <a><img alt="learning-adaptive-safety" width="180" height="90" style="object-fit: contain;" src="../research/static/images/asrl-framework-adaptive_cropped_white.png"></a>
+      <div style="margin-top: 0.5rem"><b>learning-adaptive-safety</b></div>
+      <a class="repo-description" href="https://github.com/luigiberducci/learning_adaptive_safety">
+      Learning adaptive safety for multi-agent systems with RL and control barrier functions.
       </a>
     </center></td>
 </tr>

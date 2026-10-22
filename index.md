@@ -1,18 +1,19 @@
 ---
 layout: home
 title: Hi, I'm Luigi
-subtitle: Ph.D. Student in Reinforcement Learning
+subtitle: AI Engineer at RIVR, an Amazon company
 ---
 
-I am a PhD student at <a href="https://www.tuwien.at/en/">TU Wien</a>,
-working in the <a href="https://informatics.tuwien.ac.at/orgs/e191-01">Cyber-Physical Systems Group</a>
+I am an AI Engineer at <a href="https://www.rivr.ai/">RIVR</a>, an Amazon company.
+I received my PhD from <a href="https://www.tuwien.at/en/">TU Wien</a>,
+where I worked in the <a href="https://informatics.tuwien.ac.at/orgs/e191-01">Cyber-Physical Systems Group</a>
 under the supervision of <a href="https://ti.tuwien.ac.at/cps/people/grosu">Radu Grosu</a>.
 
-My research interests lie in the study of **learning-based approaches** able to
+During my PhD, my research focused on **learning-based approaches** able to
 cope with safety-critical environments, under strict operational **constraints**.
-The goal of my work is the enforcement of formal requirements on the behavior
-emergent by automated learning approaches, specifically **reinforcement learning**.
-The application area is **autonomous driving** and, more in general, robotics.
+The goal of my work was the enforcement of formal requirements on the behavior
+emerging from automated learning approaches, specifically **reinforcement learning**.
+The application areas were **autonomous driving** and, more generally, robotics.
 
 My main interests:
 - Safe and robust learning in real-world systems
@@ -25,10 +26,18 @@ My main interests:
 
 <ul style="height: 300px; overflow: auto">
     <li>
+        <b>[New Position]</b>
+        I joined <a href="https://www.rivr.ai/">RIVR</a>, an Amazon company, as an AI Engineer.
+    </li>
+    <li>
+        <b>[PhD Completed]</b>
+        I successfully defended my PhD at <b>TU Wien</b>.
+    </li>
+    <li>
         <b>[Paper Accepted - January 2025]</b>
         The <a href="https://arxiv.org/abs/2403.17805">paper</a>
-        <i>"Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving"</i>
-        has been accepted at <b>ICRA 2024</b>!
+        <i>"Scenario-Based Curriculum Generation for Multi-Agent Driving"</i>
+        has been accepted at <b>ICRA 2025</b>!
     </li>
     <li>
         <b>[Paper Accepted - December 2024]</b>
@@ -75,9 +84,9 @@ My main interests:
         DCRES seminar series of TU Wien.
     </li>
     <li>
-        <b>[Hackaton - Oct 2023]</b>
-        Winner team (EUR 1250) at the
-        <a href="https://alignmentjam.com/jam/agency">AI Safety Hackaton</a>
+        <b>[Hackathon - Sep 2023]</b>
+        Winner team (USD 1,250) at the
+        <a href="https://alignmentjam.com/jam/agency">AI Safety Hackathon</a>
         for Agency-Preserving Reinforcement Learning.
     </li>
     <li>
@@ -130,7 +139,7 @@ My main interests:
     </li>
     <li>
         <b>[F1/10th Grand Prix at ICRA - May 2022]</b>
-        Our team *"Scuderia Segfault"* placed 3rd at the 10th
+        Our team <i>"Scuderia Segfault"</i> placed 3rd at the 10th
         F1TENTH Autonomous Grand Prix at ICRA2022!
         <a href="https://youtu.be/gk_lNKmZX4I">Video.</a>
     </li>
