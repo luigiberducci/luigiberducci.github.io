@@ -1,0 +1,51 @@
+/* Resume page: download button above a paper-like preview of the PDF. */
+
+.resume {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0.5rem 0 2rem;
+}
+
+a.resume-download {
+  display: inline-block;
+  padding: 0.35rem 1.1rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+a.resume-download:hover,
+a.resume-download:focus {
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+a.resume-download i {
+  margin-right: 0.35rem;
+}
+
+.resume-sheet {
+  display: block;
+  width: 100%;
+  max-width: 620px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08), 0 12px 32px rgba(0, 0, 0, 0.12);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.resume-sheet:hover,
+.resume-sheet:focus {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1), 0 18px 40px rgba(0, 0, 0, 0.14);
+}
+
+.resume-sheet img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}

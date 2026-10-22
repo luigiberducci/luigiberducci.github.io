@@ -1,19 +1,20 @@
 ---
 layout: page
 title: Resume
+css: "/assets/css/resume.css"
 #subtitle: Why you'd want to go on a date with me
 ---
 
-[Download my resume (PDF)](/assets/resources/BerducciLuigi_ResumeEng.pdf)
+<!--
+The preview image is page 1 of the PDF. Regenerate it after updating the PDF:
+pdftoppm -png -r 150 -singlefile assets/resources/BerducciLuigi_ResumeEng.pdf assets/img/resume-preview
+-->
 
-<object data="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng.pdf" type="application/pdf" 
-height="700px" width="700px">
-    <embed src="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng.pdf">
-        <p>
-        This browser does not support PDFs. 
-        Please download the
-        <a href="https://luigiberducci.github.io/assets/resources/BerducciLuigi_ResumeEng.pdf">PDF</a>
-        to view it.
-        </p>
-    </embed>
-</object>
+<div class="resume">
+  <a class="resume-download" href="/assets/resources/BerducciLuigi_ResumeEng.pdf">
+    <i class="fas fa-download"></i> Download PDF
+  </a>
+  <a class="resume-sheet" href="/assets/resources/BerducciLuigi_ResumeEng.pdf" aria-label="Open my resume (PDF)">
+    <img src="/assets/img/resume-preview.png" alt="Preview of Luigi Berducci's resume">
+  </a>
+</div>
