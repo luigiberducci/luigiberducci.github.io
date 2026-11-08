@@ -30,6 +30,10 @@ My main interests:
     <p><span class="timeline-emoji" aria-hidden="true">🎓</span>I successfully defended my PhD at <b>TU Wien</b>.</p>
   </li>
   <li>
+    <span class="timeline-date">Mar 2026</span>
+    <p><span class="timeline-emoji" aria-hidden="true">🚀</span><a href="https://www.rivr.ai/">RIVR</a> has been acquired by <b>Amazon</b>! <a href="https://www.swissinfo.ch/eng/workplace/amazon-acquires-swiss-delivery-robot-start-up-rivr/91144826">Press.</a></p>
+  </li>
+  <li>
     <span class="timeline-date">Feb 2025</span>
     <p><span class="timeline-emoji" aria-hidden="true">💼</span>I joined <a href="https://www.rivr.ai/">RIVR</a>, an Amazon company, as an AI Engineer.</p>
   </li>
@@ -80,6 +84,10 @@ My main interests:
   <li>
     <span class="timeline-date">Sep 2023</span>
     <p><span class="timeline-emoji" aria-hidden="true">🤝</span>I had the pleasure to participate at the first <a href="https://www.marshallplan.at/2023/495-first-two-day-high-performance-trip">High-Performance Trip</a> organized by the Marshall Plan Foundation.</p>
+  </li>
+  <li>
+    <span class="timeline-date">May 2023</span>
+    <p><span class="timeline-emoji" aria-hidden="true">🏆</span>Our team "Scuderia Segfault" placed 2nd over 41 registered teams at the 11th F1TENTH Autonomous Grand Prix at <b>ICRA 2023</b> in London! <a href="https://informatics.tuwien.ac.at/news/2442">Press.</a></p>
   </li>
   <li>
     <span class="timeline-date">May 2023</span>
